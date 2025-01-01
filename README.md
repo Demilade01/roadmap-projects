@@ -18,6 +18,7 @@ Each subdirectory represents a separate project, following the roadmap.sh guidel
 Each project directory contains its own README with specific instructions, dependencies, and setup guidelines.
 
 ## Project Status
+ProjectUrl: https://roadmap.sh/projects/single-page-cv
 
 Started: January 1, 2025
 
