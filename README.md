@@ -17,6 +17,7 @@ Each subdirectory represents a separate project, following the roadmap.sh guidel
 
 Each project directory contains its own README with specific instructions, dependencies, and setup guidelines.
 
+ProjectUrl: https://roadmap.sh/projects/basic-html-website
 ## Project Status
 ProjectUrl: https://roadmap.sh/projects/single-page-cv
 
